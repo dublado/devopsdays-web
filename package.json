@@ -23,10 +23,10 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-hub": "~4.2.0",
     "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "require-dir": "~1.2.0"
   },
   "dependencies": {
